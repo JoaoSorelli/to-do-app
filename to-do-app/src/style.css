@@ -1,0 +1,34 @@
+.form-container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+    padding:30px;
+    margin-top: 50px;
+}
+
+.meio{
+    flex-direction: column;
+    background-color: cornsilk;
+    width: 350px;
+
+}
+
+.mae{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.diogo{
+    width: 100%;
+    background-color: blue;
+    padding: 1;
+}
+
+.task-single{
+    display: flex;
+    justify-content: space-between;
+}
